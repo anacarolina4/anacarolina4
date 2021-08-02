@@ -10,6 +10,7 @@
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <i class="devicon-nextjs-original colored"></i>
   <img align="right" alt="Ana" src="https://cdn.discordapp.com/attachments/871836906835566636/871853135960883310/ANA.gif">
 </div>
   
